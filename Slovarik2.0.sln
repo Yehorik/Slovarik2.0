@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slovarik2.0", "Slovarik2.0\Slovarik2.0.csproj", "{4E42E937-099F-4930-B01B-5BD0FE9095AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E42E937-099F-4930-B01B-5BD0FE9095AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E42E937-099F-4930-B01B-5BD0FE9095AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E42E937-099F-4930-B01B-5BD0FE9095AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E42E937-099F-4930-B01B-5BD0FE9095AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCC3AB6-E38A-4DDB-90E4-4AEA7319E024}
+	EndGlobalSection
+EndGlobal
